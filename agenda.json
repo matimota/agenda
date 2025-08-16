@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": 14015653,
+      "attributes": {
+        "diary_hour": "16:00",
+        "date_diary": "2025-08-15",
+        "league_name": "DFB Pokal",
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
+        "home_team": "1. FC Saarbrücken",
+        "home_team_logo": "https://img.sofascore.com/api/v1/team/2554/image",
+        "away_team": "1. FC Magdeburg",
+        "away_team_logo": "https://img.sofascore.com/api/v1/team/2591/image",
+        "country": "Germany",
+        "country_code": "de",
+        "channels": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "channel_name": "Server 1",
+                "channel_link": "https://dd.fbcdntv247.cfd/?url=https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8&data=UmVmZXJlcj1odHRwczovL2xlZnR0b3BsYXkueHl6LyJ8T3JpZ2luPSJodHRwczovL2xlZnR0b3BsYXkueHl6Ig=="
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "channel_name": "Server 2",
+                "channel_link": "https://dd.fbcdntv247.cfd/?url=https://windnew.newkso.ru/wind/premium467/mono.m3u8&data=UmVmZXJlcj1odHRwczovL2xlZnR0b3BsYXkueHl6LyJ8T3JpZ2luPSJodHRwczovL2xlZnR0b3BsYXkueHl6Ig=="
+              }
+            }
+          ]
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "embed_name": "Server 1",
+                "embed_link": null,
+                "embed_iframe": "https://dd.fbcdntv247.cfd/?url=https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8&data=UmVmZXJlcj1odHRwczovL2xlZnR0b3BsYXkueHl6LyJ8T3JpZ2luPSJodHRwczovL2xlZnR0b3BsYXkueHl6Ig=="
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "embed_name": "Server 2",
+                "embed_link": null,
+                "embed_iframe": "https://dd.fbcdntv247.cfd/?url=https://windnew.newkso.ru/wind/premium467/mono.m3u8&data=UmVmZXJlcj1odHRwczovL2xlZnR0b3BsYXkueHl6LyJ8T3JpZ2luPSJodHRwczovL2xlZnR0b3BsYXkueHl6Ig=="
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 14054087,
+      "attributes": {
+        "diary_hour": "16:00",
+        "date_diary": "2025-08-15",
+        "league_name": "Coppa Italia",
+        "league_logo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+        "home_team": "Empoli",
+        "home_team_logo": "https://img.sofascore.com/api/v1/team/2705/image",
+        "away_team": "Reggiana",
+        "away_team_logo": "https://img.sofascore.com/api/v1/team/24516/image",
+        "country": "Italy",
+        "country_code": "it",
+        "channels": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "channel_name": "Server 1",
+                "channel_link": "https://dd.fbcdntv247.cfd/?url=https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8&data=UmVmZXJlcj1odHRwczovL2xlZnR0b3BsYXkueHl6LyJ8T3JpZ2luPSJodHRwczovL2xlZnR0b3BsYXkueHl6Ig=="
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "channel_name": "2",
+                "channel_link": "https://topembed.pw/channel/TSN1[Canada]"
+              }
+            }
+          ]
+        },
+        "embeds": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "embed_name": "Server 1",
+                "embed_link": null,
+                "embed_iframe": "https://dd.fbcdntv247.cfd/?url=https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8&data=UmVmZXJlcj1odHRwczovL2xlZnR0b3BsYXkueHl6LyJ8T3JpZ2luPSJodHRwczovL2xlZnR0b3BsYXkueHl6Ig=="
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "embed_name": "2",
+                "embed_link": null,
+                "embed_iframe": "https://topembed.pw/channel/TSN1[Canada]"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
